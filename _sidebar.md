@@ -1,3 +1,3 @@
-* [Home](/)
-* [Characters](/characters)
-* [Locations](/locations)
+- [Home](/)
+- [Characters](/characters)
+- [Locations](/locations)
