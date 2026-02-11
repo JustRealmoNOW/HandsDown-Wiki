@@ -2,7 +2,7 @@
 
 ## Main Characters
 
-### [Character Name]
+### [Elevar](/characters/aim/elevar)
 Description here...
 
 ### [Character Name]
